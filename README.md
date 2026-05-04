@@ -19,11 +19,11 @@
 
 ## What I Build
 
-Saya membuat tool kecil yang punya impact besar untuk workflow edukasi, mulai dari dashboard lokal, automation browser, sampai feedback report berbasis AI yang langsung bisa dipakai tutor.
+I build small tools with meaningful impact for education workflows, from local dashboards and browser automation to AI-assisted feedback reports that tutors can use right away.
 
-- Mengubah pekerjaan repetitif menjadi proses sekali klik.
-- Merapikan data kelas, lesson, feedback, dan PDF report.
-- Membuat sistem praktis yang cepat dipakai, bukan cuma demo.
+- Turn repetitive work into one-click processes.
+- Organize class data, lessons, feedback, and PDF reports.
+- Build practical systems that are useful in real daily workflows.
 
 </td>
 <td width="42%" valign="top">
@@ -31,7 +31,7 @@ Saya membuat tool kecil yang punya impact besar untuk workflow edukasi, mulai da
 ## Current Focus
 
 ```txt
-Dashboard SaaS       █████████░ 90%
+SaaS Dashboard       █████████░ 90%
 Education Automation ████████░░ 80%
 AI Feedback Writer   ████████░░ 80%
 Frontend Polish      ███████░░░ 70%
@@ -48,7 +48,7 @@ Frontend Polish      ███████░░░ 70%
 <td width="33%" valign="top">
 
 ### SaaS Automation Dashboard
-Local control center untuk menjalankan automation pendidikan dari satu tempat.
+A local control center for running education automation workflows from one place.
 
 `Next.js` `TypeScript` `Automation`
 
@@ -56,7 +56,7 @@ Local control center untuk menjalankan automation pendidikan dari satu tempat.
 <td width="33%" valign="top">
 
 ### Algonova Feedback Writer
-Generate feedback singkat, apply ke Monthly Personal, lalu export PDF otomatis.
+Generates concise tutor feedback, applies it to monthly reports, and exports PDF files automatically.
 
 `AI` `Google Sheets` `PDF`
 
@@ -64,7 +64,7 @@ Generate feedback singkat, apply ke Monthly Personal, lalu export PDF otomatis.
 <td width="33%" valign="top">
 
 ### Kodland Automation Tools
-Workflow automation untuk lesson, homework, dan proses tutor harian.
+Workflow automation for lessons, homework, and daily tutor operations.
 
 `Python` `Playwright` `Workflow`
 
