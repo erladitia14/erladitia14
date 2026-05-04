@@ -12,6 +12,15 @@ Saya suka membuat workflow yang mengubah pekerjaan repetitif menjadi sistem yang
   <img src="https://img.shields.io/badge/Role-Tutor%20%26%20Builder-f59e0b?style=for-the-badge" alt="Tutor and Builder" />
 </p>
 
+<p>
+  <a href="https://www.instagram.com/erladitia/">
+    <img src="https://img.shields.io/badge/Instagram-erladitia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/erladitia14/">
+    <img src="https://img.shields.io/badge/LinkedIn-erladitia14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 </div>
 
 ---
