@@ -1,0 +1,58 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06131F"/>
+      <stop offset="0.44" stop-color="#073B4C"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 160) rotate(42) scale(360 260)">
+      <stop stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 380) rotate(135) scale(420 280)">
+      <stop stop-color="#22C55E" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#22C55E" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="520" rx="34" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="34" fill="url(#glowA)"/>
+  <rect width="1200" height="520" rx="34" fill="url(#glowB)"/>
+  <path d="M0 382C126 330 230 342 350 378C485 419 606 456 742 404C875 353 968 268 1200 322V520H0V382Z" fill="#020617" fill-opacity="0.62"/>
+  <path d="M-20 100C122 58 244 86 366 148C502 216 637 250 786 190C920 137 1050 98 1220 166" stroke="#E0F2FE" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M-20 136C130 94 246 130 372 188C526 259 644 290 814 220C930 172 1042 148 1220 212" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="2"/>
+
+  <g filter="url(#shadow)">
+    <rect x="74" y="82" width="1052" height="324" rx="30" fill="#07111F" fill-opacity="0.58" stroke="#FFFFFF" stroke-opacity="0.18"/>
+    <rect x="96" y="104" width="304" height="280" rx="24" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <circle cx="248" cy="210" r="72" fill="#EAF6FF"/>
+    <rect x="208" y="160" width="24" height="74" rx="8" fill="#FACC15"/>
+    <rect x="264" y="160" width="24" height="74" rx="8" fill="#FACC15"/>
+    <path d="M186 252H232V298H186V252Z" fill="#FDE68A"/>
+    <path d="M264 252H310V298H264V252Z" fill="#FDE68A"/>
+    <rect x="136" y="326" width="224" height="18" rx="9" fill="#38BDF8" fill-opacity="0.55"/>
+    <rect x="168" y="352" width="160" height="12" rx="6" fill="#22C55E" fill-opacity="0.55"/>
+  </g>
+
+  <text x="446" y="168" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="-1.8">Erlangga Aditia</text>
+  <text x="448" y="217" fill="#BAE6FD" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="24" font-weight="600">Automation Builder • Tutor • Informatics Student</text>
+  <text x="448" y="276" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="700">Building useful tools for education workflows.</text>
+  <text x="448" y="322" fill="#D1FAE5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="500">Local SaaS dashboards · AI-assisted feedback · workflow automation</text>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="448" y="350" width="132" height="38" rx="19" fill="#0EA5E9"/>
+    <text x="477" y="375" fill="#FFFFFF">NEXT.JS</text>
+    <rect x="594" y="350" width="120" height="38" rx="19" fill="#22C55E"/>
+    <text x="622" y="375" fill="#FFFFFF">PYTHON</text>
+    <rect x="728" y="350" width="154" height="38" rx="19" fill="#F59E0B"/>
+    <text x="755" y="375" fill="#111827">AUTOMATION</text>
+    <rect x="896" y="350" width="86" height="38" rx="19" fill="#F43F5E"/>
+    <text x="926" y="375" fill="#FFFFFF">AI</text>
+  </g>
+
+  <circle cx="1048" cy="112" r="5" fill="#FFFFFF" fill-opacity="0.65"/>
+  <circle cx="1082" cy="146" r="4" fill="#FFFFFF" fill-opacity="0.45"/>
+  <circle cx="1018" cy="184" r="3" fill="#FFFFFF" fill-opacity="0.45"/>
+</svg>

@@ -1,64 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:22c55e,100:f59e0b&height=180&section=header&text=Erlangga%20Aditia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20Builder%20%7C%20Tutor%20%7C%20Informatics%20Student&descAlignY=58&descSize=16" alt="Erlangga Aditia" />
+<img src="./assets/hero.svg" alt="Erlangga Aditia hero banner" width="100%" />
 
-### I build practical automation tools for education workflows.
+<br />
 
-Saya suka membuat workflow yang mengubah pekerjaan repetitif menjadi sistem yang lebih cepat, rapi, dan mudah dipakai. Fokus saya ada di automation, dashboard lokal, web tooling, dan AI-assisted feedback untuk membantu proses belajar mengajar.
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Purwakarta-22c55e?style=for-the-badge" alt="Purwakarta" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20AI-0ea5e9?style=for-the-badge" alt="Automation and AI" />
-  <img src="https://img.shields.io/badge/Role-Tutor%20%26%20Builder-f59e0b?style=for-the-badge" alt="Tutor and Builder" />
-</p>
-
-<p>
-  <a href="https://www.instagram.com/erladitia/">
-    <img src="https://img.shields.io/badge/Instagram-erladitia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/erladitia14/">
-    <img src="https://img.shields.io/badge/LinkedIn-erladitia14-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://www.instagram.com/erladitia/"><img src="https://img.shields.io/badge/Instagram-erladitia-F43F5E?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/erladitia14/"><img src="https://img.shields.io/badge/LinkedIn-erladitia14-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Purwakarta-22C55E?style=flat-square" alt="Purwakarta" />
+<img src="https://img.shields.io/badge/Focus-Automation%20%2B%20AI-38BDF8?style=flat-square" alt="Automation and AI" />
 
 </div>
 
----
+<br />
 
-## About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- Informatics student from Universitas Pendidikan Indonesia.
-- Tutor who likes turning classroom workflows into useful tools.
-- Currently building local SaaS dashboards, automation scripts, and AI-powered feedback systems.
-- Interested in practical products that save time and make learning smoother.
+## What I Build
 
-## Tech Stack
+Saya membuat tool kecil yang punya impact besar untuk workflow edukasi, mulai dari dashboard lokal, automation browser, sampai feedback report berbasis AI yang langsung bisa dipakai tutor.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,html,css,git,github" alt="Tech stack" />
-</p>
+- Mengubah pekerjaan repetitif menjadi proses sekali klik.
+- Merapikan data kelas, lesson, feedback, dan PDF report.
+- Membuat sistem praktis yang cepat dipakai, bukan cuma demo.
 
-## Current Projects
+</td>
+<td width="42%" valign="top">
 
-| Project | Focus |
-| --- | --- |
-| SaaS Automation Dashboard | Local dashboard for running education automation workflows. |
-| Algonova Feedback Writer | Generate concise tutor feedback and monthly PDF reports. |
-| Kodland Automation Tools | Automate lesson and homework workflows. |
+## Current Focus
 
-## GitHub Stats
+```txt
+Dashboard SaaS       █████████░ 90%
+Education Automation ████████░░ 80%
+AI Feedback Writer   ████████░░ 80%
+Frontend Polish      ███████░░░ 70%
+```
+
+</td>
+</tr>
+</table>
+
+## Featured Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### SaaS Automation Dashboard
+Local control center untuk menjalankan automation pendidikan dari satu tempat.
+
+`Next.js` `TypeScript` `Automation`
+
+</td>
+<td width="33%" valign="top">
+
+### Algonova Feedback Writer
+Generate feedback singkat, apply ke Monthly Personal, lalu export PDF otomatis.
+
+`AI` `Google Sheets` `PDF`
+
+</td>
+<td width="33%" valign="top">
+
+### Kodland Automation Tools
+Workflow automation untuk lesson, homework, dan proses tutor harian.
+
+`Python` `Playwright` `Workflow`
+
+</td>
+</tr>
+</table>
+
+## Toolbox
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erladitia14&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erladitia14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,python,html,css,git,github,vscode" alt="Tech stack" />
 
 </div>
 
----
+## Snapshot
 
 <div align="center">
 
-### Build small tools. Save big time.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=erladitia14&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F59E0B" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erladitia14&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22C55E" alt="Top Languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+### Build less manually. Ship more intentionally.
 
 </div>
